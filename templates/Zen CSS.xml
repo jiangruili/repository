@@ -1,0 +1,7 @@
+<templateSet group="Zen CSS">
+  <template name="user" value="/**&#10; * &lt;p&gt;&#10; * &#10; * @date ${DATE} &#10; * @author 蒋睿立&#10; * @version 1&#10; */" description="*" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
