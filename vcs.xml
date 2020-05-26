@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/jiangruili/jt-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jiangruili/demo_javase.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\project" />
