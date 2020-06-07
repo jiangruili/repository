@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="IgnoreLang" injector-id="java">
+      <display-name>Logger.trace (org.junit.platform.commons.logging)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("trace").withParameters("java.util.function.Supplier").definedInClass("org.junit.platform.commons.logging.Logger"))]]></place>
+    </injection>
+  </component>
+</application>
