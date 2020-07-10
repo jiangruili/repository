@@ -1,12 +1,12 @@
 <templateSet group="user">
-  <template name="/**" value="/**&#10; *&#10; * @description: &#10; * @author: 蒋睿立&#10; */" shortcut="ENTER" description="补充类注释" toReformat="false" toShortenFQNames="false">
+  <template name="/*" value="/**&#10; * &#10; * &#10; */" shortcut="ENTER" description="普通注释注释" toReformat="false" toShortenFQNames="false">
     <context>
-      <option name="COMPLETION" value="false" />
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_DECLARATION" value="false" />
-      <option name="JAVA_EXPRESSION" value="false" />
-      <option name="JAVA_STATEMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="/**" value="/**&#10; *&#10; * @description: &#10; * @author: 蒋睿立&#10; */" description="类注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
     </context>
   </template>
 </templateSet>
