@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/Desktop/NettyGameServer-master" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Desktop/netty-file-parent-master" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Desktop/netty-learning-master/learning-src" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Desktop/netty-learning-master/netty-3.7" startUpFlag="FIRST" />
