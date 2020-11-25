@@ -38,6 +38,10 @@
           <option name="url" value="http://gitlab.ejar.cn/wuzhenghong/zentaopms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ejar.cn/root/ejar-origin-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\project" />
